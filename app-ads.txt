@@ -1,4 +1,5 @@
 applovin.com, 317e5ed53ef9be8bfd98a6125d523f28, DIRECT
+facebook.com, 167944302454174, DIRECT, c3e20eee3f780d68
 pangleglobal.com, 5004736, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 facebook.com, 577513140677180, DIRECT, c3e20eee3f780d68
